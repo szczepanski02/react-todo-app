@@ -1,0 +1,38 @@
+.additem {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+textarea {
+    resize: none;
+    border-radius: 5px;
+    padding: 10px;
+    border: 2px solid #b1b1b1;
+}
+hr {
+    margin-top: 30px;
+}
+input[type=date] {
+    display: block;
+    margin-top: 10px;
+}
+.lowBtn {
+    background-color: green;
+    margin-right: 10px;
+}
+.mediumBtn {
+    background-color: blue;
+    margin-right: 10px;
+}
+.highBtn {
+    background-color: red;
+}
+.submit {
+    padding: 0.5rem 2rem;
+    background-color: rgb(15, 180, 0);
+    color: white;
+}
+.error {
+    font-style: italic;
+    font-size: 14px;
+    color: red;
+}
