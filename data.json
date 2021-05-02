@@ -1,0 +1,20 @@
+{
+    "items": [
+      {
+        "id": 0,
+        "content": "Tutaj jest treść przykładowej notatki",
+        "date": "2021-04-15",
+        "isFinished": false,
+        "priority": "normal",
+        "finishDate": null
+      },
+      {
+        "id": 1,
+        "content": "Zrobić coś bardzo ważnego!",
+        "date": "2021-04-16",
+        "isFinished": false,
+        "priority": "normal",
+        "finishDate": null
+      }
+    ]
+  }
