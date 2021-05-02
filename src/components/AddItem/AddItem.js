@@ -47,6 +47,7 @@ class AddItem extends React.Component {
                     errorList: []
                 });
             }
+            this.priorityColor = "black";
         }
     }
 
